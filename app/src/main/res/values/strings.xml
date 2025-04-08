@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">30 Days Fitness</string>
+    <string name="exercise_header">Exercise:</string>
+    <string name="description_header">Description</string>
+    <string name="exercise_1_name">Jumping Jacks</string>
+    <string name="exercise_2_name">Push-Ups</string>
+    <string name="exercise_3_name">Bodyweight Squats</string>
+    <string name="exercise_4_name">Plank Hold</string>
+    <string name="exercise_5_name">High Knees</string>
+    <string name="exercise_6_name">Glute Bridges</string>
+    <string name="exercise_7_name">Triceps Dips (on chair)</string>
+    <string name="exercise_8_name">Mountain Climbers</string>
+    <string name="exercise_9_name">Wall Sit</string>
+    <string name="exercise_10_name">Side Plank (each side)</string>
+    <string name="exercise_1_description">Full-body warm-up that boosts heart rate and circulation. Great for starting your workout.</string>
+    <string name="exercise_2_description">Builds upper body strength using chest, shoulders, and triceps. Keep your core tight!</string>
+    <string name="exercise_3_description">Strengthens legs and glutes while improving balance and posture.</string>
+    <string name="exercise_4_description">Targets your core. Keep your body straight and engage abs for stability.</string>
+    <string name="exercise_5_description">Cardio move that improves coordination and gets your heart pumping.</string>
+    <string name="exercise_6_description">Works the glutes and lower back. Great for posture and core stability.</string>
+    <string name="exercise_7_description">Targets the back of your arms. Use a sturdy chair or low bench.</string>
+    <string name="exercise_8_description">Fast-paced core and cardio combo. Keep hips low and move knees quickly.</string>
+    <string name="exercise_9_description">Lower-body endurance move. Sit against a wall like you’re on an invisible chair.</string>
+    <string name="exercise_10_description">Strengthens obliques and improves core stability and posture.</string>
+    <string name="day_number">Day %d</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
