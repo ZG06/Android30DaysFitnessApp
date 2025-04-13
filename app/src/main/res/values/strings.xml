@@ -12,6 +12,27 @@
     <string name="exercise_8_name">Mountain Climbers</string>
     <string name="exercise_9_name">Wall Sit</string>
     <string name="exercise_10_name">Side Plank (each side)</string>
+    <string name="exercise_11_name">Arm Circles</string>
+    <string name="exercise_12_name">Lunges</string>
+    <string name="exercise_13_name">Bicycle Crunches</string>
+    <string name="exercise_14_name">Calf Raises</string>
+    <string name="exercise_15_name">Inchworms</string>
+    <string name="exercise_16_name">Reverse Plank Kicks</string>
+    <string name="exercise_17_name">Superman Hold</string>
+    <string name="exercise_18_name">Donkey Kicks</string>
+    <string name="exercise_19_name">Bear Crawl</string>
+    <string name="exercise_20_name">Toe Touches (lying down)</string>
+    <string name="exercise_21_name">Marching in Place</string>
+    <string name="exercise_22_name">Russian Twists</string>
+    <string name="exercise_23_name">Knee Push-Ups</string>
+    <string name="exercise_24_name">Reverse Crunch</string>
+    <string name="exercise_25_name">Jump Squats</string>
+    <string name="exercise_26_name">Flutter Kicks</string>
+    <string name="exercise_27_name">Dumbbell Thrusters</string>
+    <string name="exercise_28_name">Shoulder Taps (in plank)</string>
+    <string name="exercise_29_name">Tip Toe Squats</string>
+    <string name="exercise_30_name">Burpees</string>
+
     <string name="exercise_1_description">Full-body warm-up that boosts heart rate and circulation. Great for starting your workout.</string>
     <string name="exercise_2_description">Builds upper body strength using chest, shoulders, and triceps. Keep your core tight!</string>
     <string name="exercise_3_description">Strengthens legs and glutes while improving balance and posture.</string>
@@ -22,6 +43,27 @@
     <string name="exercise_8_description">Fast-paced core and cardio combo. Keep hips low and move knees quickly.</string>
     <string name="exercise_9_description">Lower-body endurance move. Sit against a wall like you’re on an invisible chair.</string>
     <string name="exercise_10_description">Strengthens obliques and improves core stability and posture.</string>
+    <string name="exercise_11_description">Shoulder warm-up and toning exercise. Forward and backward circles.</string>
+    <string name="exercise_12_description">Boosts leg strength and balance. Step forward, bend both knees, push back.</string>
+    <string name="exercise_13_description">Dynamic core workout targeting abs and obliques.</string>
+    <string name="exercise_14_description">Strengthens calves. Stand tall, lift heels off the ground, and lower slowly.</string>
+    <string name="exercise_15_description">Improves flexibility and activates core and shoulders. Walk hands out to plank and back.</string>
+    <string name="exercise_16_description">A challenging move that strengthens your core, glutes, and shoulders.</string>
+    <string name="exercise_17_description">Back-strengthening move. Lie on your stomach and lift arms, legs, and chest.</string>
+    <string name="exercise_18_description">Targets glutes. On all fours, kick one leg up and back.</string>
+    <string name="exercise_19_description">Full-body move that builds strength and coordination. Crawl on all fours.</string>
+    <string name="exercise_20_description">Works your upper abs. Lie down, reach toward your toes with legs straight.</string>
+    <string name="exercise_21_description">Low-impact cardio. March while swinging arms for a steady warm-up or cool-down.</string>
+    <string name="exercise_22_description">Rotational core exercise. Sit, lean back slightly, and twist side-to-side.</string>
+    <string name="exercise_23_description">A modified push-up that builds upper body and core strength with less intensity.</string>
+    <string name="exercise_24_description">An effective core move that targets the lower abdominal muscles.</string>
+    <string name="exercise_25_description">A powerful lower-body move that combines strength and cardio for explosive leg training.</string>
+    <string name="exercise_26_description">Targets lower abs. Lie down and kick legs up and down quickly.</string>
+    <string name="exercise_27_description">A total-body movement that combines a squat and an overhead press to build strength and endurance.</string>
+    <string name="exercise_28_description">Core stability and shoulder strength. Tap each shoulder without rocking hips.</string>
+    <string name="exercise_29_description">A lower-body move that strengthens the legs and calves while challenging balance.</string>
+    <string name="exercise_30_description">Total-body cardio move. Squat, jump into plank, push-up (optional), jump up.</string>
+
     <string name="day_number">Day %d</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
